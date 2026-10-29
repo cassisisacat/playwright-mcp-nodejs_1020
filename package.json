@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "playwright": "1.64.0-alpha-1790635538000",
-    "playwright-core": "1.64.0-alpha-1790635538000"
+    "playwright-core": "1.64.0"
   },
   "devDependencies": {
     "@modelcontextprotocol/sdk": "^1.25.2",
